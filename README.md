@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/Developer.gif" width="200px">
+<img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="200px">
 </p>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href=""> Deevesh Chowdary </a><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/Developer.gif" width="65px"></h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href=""> Deevesh Chowdary </a><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="65px"></h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/DeeveshChowdary)
 [![Repos Badge](https://badges.pufler.dev/repos/DeeveshChowdary)](https://github.com/DeeveshChowdary?tab=repositories) 
@@ -43,17 +43,17 @@
 ### :zap: My Tech Toolbox 🧰
 
 <p align="left">
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/python-original.svg" alt="python" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/c-original.svg" alt="C" width="40" height="40"/></code>
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/java-original.svg" alt="Java" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/css3-original-wordmark.svg" alt="css3" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/github.svg" alt="github" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/linux-original.svg" alt="Linux" width="40" height="40"/></code>
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/python-original.svg" alt="python" width="40" height="40"/></code> 
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/c-original.svg" alt="C" width="40" height="40"/></code>
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/css3-original-wordmark.svg" alt="css3" height="40"/></code> 
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/github.svg" alt="github" width="40" height="40"/></code> 
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 </p>
 
 <!---
