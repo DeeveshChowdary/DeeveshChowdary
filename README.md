@@ -17,7 +17,7 @@
 - 👀 I’m interested in Blockchain, building scalable backend systems
 - 🌱 I’m currently learning Angular/React
 - 💞️ I’m looking to collaborate on Projects which interest me and hackathons.
-- 🎯 I’m focusing on Competitive Programming to get into <img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/FAANG-3.gif" width="100px" />
+- 🎯 I’m focusing on Competitive Programming to get into <img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/FAANG-3.gif" width="100px" />
 - <details> 
   <summary>📫  How to reach me :</summary> 
   
