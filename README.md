@@ -56,6 +56,13 @@
   <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
 </p>
 
+
+### :zap: Most used languages ❤️
+
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DeeveshChowdary&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+
+</p>
+
 <!---
 DeeveshChowdary/DeeveshChowdary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
