@@ -65,6 +65,14 @@
 </a>
 </p>
 
+### :zap: GitHub Stats
+
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeeveshChowdary&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
+ 
+</p>
+
+
 <!---
 DeeveshChowdary/DeeveshChowdary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
