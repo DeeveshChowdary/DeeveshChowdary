@@ -21,12 +21,12 @@
 - <details> 
   <summary>📫  How to reach me :</summary> 
   
-  <a href="https://wa.me/9032973619" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/whatsapp(color).png" width="27px" /> </a> 
-  <a href="https://t.me/CosmicCommander" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/telegram(color).png" width="27px" /> </a> 
-  <a href="https://www.linkedin.com/in/gdeeveshc/" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/linked(color).png" width="27px" /> </a> 
-  <a href="https://www.instagram.com/dc._.g/" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/Instagram%20(1).svg" width="27px" /> </a> 
-  <a href="https://twitter.com/devesh_gdc" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/twitter(color).png" width="27px" /> </a> 
-  <a href="mailto:chowdarydevesh@gmail.com"> <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/Gmail_icon_(2020).svg" width="27px"/> </a>
+  <a href="https://wa.me/9032973619" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/whatsapp(color).png" width="27px" /> </a> 
+  <a href="https://t.me/CosmicCommander" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/telegram(color).png" width="27px" /> </a> 
+  <a href="https://www.linkedin.com/in/gdeeveshc/" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/linked(color).png" width="27px" /> </a> 
+  <a href="https://www.instagram.com/dc._.g/" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Instagram%20(1).svg" width="27px" /> </a> 
+  <a href="https://twitter.com/devesh_gdc" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/twitter(color).png" width="27px" /> </a> 
+  <a href="mailto:chowdarydevesh@gmail.com"> <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Gmail_icon_(2020).svg" width="27px"/> </a>
 </details>
 <br>
 <hr>
