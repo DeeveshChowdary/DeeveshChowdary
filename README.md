@@ -89,6 +89,9 @@
   <code><a href="https://medium.com/@chowdarydevesh" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/medium.svg" width="40px"/></a></code>
   <code><a href="https://www.kaggle.com/gdeeveshchowdary" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/kaggle.svg" width="40px"/></a></code>
 </p>
+
+<img align='center' height="70" alt="Thanks for visiting my profile! " width="100%" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/marquee.svg"/>
+
 <!---
 DeeveshChowdary/DeeveshChowdary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
