@@ -77,7 +77,7 @@
 
 ![Deevesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DeeveshChowdary&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-
+ <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Handshake.gif" height="30px"></h4>
 <!---
 DeeveshChowdary/DeeveshChowdary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
