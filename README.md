@@ -59,10 +59,8 @@
 ### :zap: Most used languages ❤️
 
 <p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DeeveshChowdary&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeeveshChowdary&theme=dracula" alt=""><br>
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeeveshChowdary&theme=dracula">
-</a>
 </p>
 
 ### :zap: GitHub Stats
