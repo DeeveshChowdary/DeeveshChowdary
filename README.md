@@ -54,6 +54,8 @@
   <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/github.svg" alt="github" width="40" height="40"/></code> 
   <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
   <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/updates/images/azure2.png" alt="Azure" width="40" height="40"/></code>
+
 </p>
 
 ### :zap: Most used languages ❤️
