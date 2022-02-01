@@ -19,7 +19,7 @@
 - 💞️ I’m looking to collaborate on hackathons and Projects which interest me.
 - 🎯 I’m focusing on Competitive Programming to get into <img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/FAANG-3.gif" width="100px" />
 - <details> 
-  <summary>📫  How to reach me :</summary> 
+  <summary>📫  How to reach me: (click) </summary> 
   
   <a href="https://wa.me/9032973619" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/whatsapp(color).png" width="27px" /> </a> 
   <a href="https://t.me/CosmicCommander" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/telegram(color).png" width="27px" /> </a> 
