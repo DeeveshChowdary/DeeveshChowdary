@@ -2,7 +2,10 @@
 <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="200px">
 </p>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href=""> Deevesh Chowdary </a><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="65px"></h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href=""> Deevesh Chowdary </a>
+  
+<!--   <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="65px"> -->
+</h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/DeeveshChowdary)
 [![Repos Badge](https://badges.pufler.dev/repos/DeeveshChowdary)](https://github.com/DeeveshChowdary?tab=repositories) 
