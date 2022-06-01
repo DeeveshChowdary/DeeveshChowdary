@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href=""> Deevesh Chowdary </a>
   
-<!--   <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="65px"> -->
+  <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="65px" height = "60px">
 </h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/DeeveshChowdary)
@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m @DeeveshChowdary
 - 👀 I’m interested in Blockchain, building scalable backend systems
-- 🌱 I’m currently learning Angular/React
+- 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on hackathons and Projects which interest me.
 - 🎯 I’m focusing on Competitive Programming to get into <img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/FAANG-3.gif" width="100px" />
 - <details> 
