@@ -45,18 +45,22 @@
 ### :zap: My Tech Toolbox 🧰
 
 <p align="left">
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/python-original.svg" alt="python" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/c-original.svg" alt="C" width="40" height="40"/></code>
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/python-original.svg" alt="python" width="40" height="40"/></code>
+    <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </code>
+    <code><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97814431/170081210-73593c53-48ce-4ad1-bd96-d370c124cc2c.png" alt="express" width="90" height="40"/></a></code>
+    <code><a href="https://angularjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="react" width="40" height="40"/> </a> </code>
+ <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  </code>
+    <code><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></code>
+    <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
+    <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
   <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
   <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/css3-original-wordmark.svg" alt="css3" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
   <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/github.svg" alt="github" width="40" height="40"/></code> 
-  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
   <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
   <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/updates/images/azure2.png" alt="Azure" width="40" height="40"/></code>
+    <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/c-original.svg" alt="C" width="40" height="40"/></code>
+  <code><img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code>
 
 </p>
 
