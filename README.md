@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="200px">
 </p>
-  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=Software+Engineer+by+day;Furniture+Flipper+by+night" </p> 
+  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=Software+Engineer+by+day;Stargazer+by+night" </p> 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href=""> Deevesh Chowdary </a>!!
 <!--   <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Developer.gif" width="65px" height = "60px"> -->
 </h1>
