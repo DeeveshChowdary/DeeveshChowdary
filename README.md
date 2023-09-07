@@ -24,10 +24,8 @@
   <summary>📫  How to reach me: (click) </summary> 
   
   <a href="https://wa.me/9032973619" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/whatsapp(color).png" width="27px" /> </a> 
-  <a href="https://t.me/CosmicCommander" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/telegram(color).png" width="27px" /> </a> 
   <a href="https://www.linkedin.com/in/gdeeveshc/" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/linked(color).png" width="27px" /> </a> 
   <a href="https://www.instagram.com/dc._.g/" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Instagram%20(1).svg" width="27px" /> </a> 
-  <a href="https://twitter.com/devesh_gdc" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/twitter(color).png" width="27px" /> </a> 
   <a href="mailto:chowdarydevesh@gmail.com"> <img src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Gmail_icon_(2020).svg" width="27px"/> </a>
 </details>
 <br>
@@ -88,11 +86,9 @@
  <p align="center">
   <code><a href="https://www.linkedin.com/in/gdeeveshc/"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/linked(color).png" alt="Deevesh's linkedin" width="40px" /></a></code>  
   <code><a href="https://www.instagram.com/dc._.g/" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/Instagram%20(1).svg" alt="Deevesh's Instagram" width="40px" /></a></code>
-  <code><a href="https://twitter.com/devesh_gdc" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/twitter(color).png" width="40px" /></a></code>
-  <code><a href="https://t.me/CosmicCommander" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/telegram(color).png" width="40px" /></a></code>
   <code><a href="https://wa.me/919032973619" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/whatsapp(color).png" width="40px" /></a></code>
   <code><a href="https://github.com/DeeveshChowdary" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/github(color).png" width="50px"/></a></code> 
-  <code><a href="https://medium.com/@chowdarydevesh" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/medium.svg" width="40px"/></a></code>
+  <code><a href="https://medium.com/@DeeveshChowdary" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/medium.svg" width="40px"/></a></code>
   <code><a href="https://www.kaggle.com/gdeeveshchowdary" target="blank"><img align="center" src="https://github.com/DeeveshChowdary/DeeveshChowdary/blob/main/images/kaggle.svg" width="40px"/></a></code>
 </p>
 
